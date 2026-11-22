@@ -18,7 +18,7 @@ from xml.sax.saxutils import escape
 # Project folder paths
 BASE_DIR = Path(__file__).parent
 LOGO_PATH = BASE_DIR / "assets" / "CropDoc_AI_Logo.png"
-MODEL_PATH = BASE_DIR / "models" / "cropdoc_model.keras"
+MODEL_PATH = BASE_DIR / "models" / "cropdoc_model.h5"
 CLASS_PATH = BASE_DIR / "models" / "class_names.json"
 
 # Page configuration
