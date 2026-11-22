@@ -6,3 +6,4 @@ scikit-learn
 streamlit==1.60.0
 pillow
 reportlab
+keras==2.15.0
