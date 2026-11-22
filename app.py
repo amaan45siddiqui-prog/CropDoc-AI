@@ -196,7 +196,7 @@ if uploaded_file is not None:
         st.image(
             image,
             caption="Uploaded Plant Leaf",
-            use_container_width=True
+            width=350
         )
 
     with col2:
