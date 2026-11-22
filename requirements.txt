@@ -3,5 +3,6 @@ numpy<2
 pandas
 matplotlib
 scikit-learn
-streamlit
+streamlit==1.60.0
 pillow
+reportlab
